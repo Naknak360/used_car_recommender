@@ -15,7 +15,7 @@ narrow down the very long list of regions that, if one-hot encoded, could blow
 my feature space out of proportion.
 
 
-**TODO: INCLUDE GRAPH OF COEFFICIENTS FROM LASSO**
+![lasso_coefficients](images/lasso_coefficients.PNG)
 
 Here is a brief summary of my findings from the graph of coefficients above:
 1. Having a transmission other than an automatic or manual is the biggest
